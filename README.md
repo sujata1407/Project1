@@ -15,8 +15,6 @@ GETTING STARTED
 
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
-3. Download project from github(https://github.com/narendra03K/Placement-Portal).
-
 OR follow gitbash commands
 
 i> cd C:\\xampp\htdocs\
